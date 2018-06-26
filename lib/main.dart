@@ -70,6 +70,7 @@ void main() async {
                               children: [
                                 new Icon(
                                   Icons.pause_circle_filled,
+                                  //TODO-------Just need to change to a flage image from API
                                   size: 50.2,
                                   color: Colors.green,
                                 ),
@@ -97,6 +98,7 @@ void main() async {
                                 ),
                                 new Icon(
                                   Icons.pause_circle_filled,
+                                  //TODO-------Just need to change to a flage image from API
                                   size: 50.2,
                                   color: Colors.green,
                                 ),
@@ -160,8 +162,9 @@ void main() async {
 }
 
 Future<List> getJson() async {
-  String apiurl = "http://www.mocky.io/v2/5b2a3d5c3000004e009cd297";
-
+  String apiurl =
+      "http://www.mocky.io/v2/5b2a3d5c3000004e009cd297"; //TODO-------PLEASE UPDATE THE URL IF MOCK DOESN'T WORK
+  //TODO--SAMPLE CAN BE FOUND IN flutter_slider/SampleJSON/gameslist.json
   http.Response response = await http.get(apiurl);
 
   return json.decode(response.body)['data']; //Returns  list Type

@@ -1,0 +1,439 @@
+{
+  "data": [
+    {
+      "id": "indafg_2018_test_01",
+      "teams": {
+        "a": {
+          "name": "India",
+          "shortName": "IND",
+          "imageUrl": "/img/flags/ind.png"
+        },
+        "b": {
+          "name": "Afghanistan",
+          "shortName": "AFG",
+          "imageUrl": "/img/flags/afg.png"
+        }
+      },
+      "type": "Test",
+      "status": 3,
+      "date": {
+        "iso": "2018-06-14T04:00+00:00",
+        "ts": 1528948800
+      },
+      "season": "India vs Afghanistan 2018",
+      "relatedName": "Only Test Match",
+      "isScheduled": true,
+      "totalWinnings": 0,
+      "totalContests": 0,
+      "totalCashWinnings": 0,
+      "totalCoinWinnings": 0,
+      "totalSpots": 0
+    },
+    {
+      "id": "wisl_2018_test_02",
+      "teams": {
+        "a": {
+          "name": "West Indies",
+          "shortName": "WI",
+          "imageUrl": "/img/flags/wi.png"
+        },
+        "b": {
+          "name": "Sri Lanka",
+          "shortName": "SL",
+          "imageUrl": "/img/flags/sl.png"
+        }
+      },
+      "type": "Test",
+      "status": 3,
+      "date": {
+        "iso": "2018-06-14T14:00+00:00",
+        "ts": 1528984800
+      },
+      "season": "West Indies vs Sri Lanka 2018",
+      "relatedName": "2nd Test Match",
+      "isScheduled": true,
+      "totalWinnings": 1,
+      "totalContests": 2,
+      "totalCashWinnings": 1,
+      "totalCoinWinnings": 1,
+      "totalSpots": 20000
+    },
+    {
+      "id": "engaus_2018_one-day_02",
+      "teams": {
+        "a": {
+          "name": "England",
+          "shortName": "ENG",
+          "imageUrl": "/img/flags/eng.png"
+        },
+        "b": {
+          "name": "Australia",
+          "shortName": "AUS",
+          "imageUrl": "/img/flags/aus.png"
+        }
+      },
+      "type": "ODI",
+      "status": 3,
+      "date": {
+        "iso": "2018-06-16T10:00+00:00",
+        "ts": 1529143200
+      },
+      "season": "England vs Australia 2018",
+      "relatedName": "2nd ODI Match",
+      "isScheduled": true,
+      "totalWinnings": 0,
+      "totalContests": 0,
+      "totalCashWinnings": 0,
+      "totalCoinWinnings": 0,
+      "totalSpots": 0
+    },
+    {
+      "id": "nltriseriest20_2018_g3",
+      "teams": {
+        "a": {
+          "name": "Ireland",
+          "shortName": "IRE",
+          "imageUrl": "/img/flags/ire.png"
+        },
+        "b": {
+          "name": "Scotland",
+          "shortName": "SCT",
+          "imageUrl": "/img/flags/sco.png"
+        }
+      },
+      "type": "T20",
+      "status": 3,
+      "date": {
+        "iso": "2018-06-16T15:00+00:00",
+        "ts": 1529161200
+      },
+      "season": "T20I Tri Series 2018 in Netherlands",
+      "relatedName": "3rd Match",
+      "isScheduled": true,
+      "totalWinnings": 0,
+      "totalContests": 0,
+      "totalCashWinnings": 0,
+      "totalCoinWinnings": 0,
+      "totalSpots": 0
+    },
+    {
+      "id": "nltriseriest20_2018_g4",
+      "teams": {
+        "a": {
+          "name": "Ireland",
+          "shortName": "IRE",
+          "imageUrl": "/img/flags/ire.png"
+        },
+        "b": {
+          "name": "Scotland",
+          "shortName": "SCT",
+          "imageUrl": "/img/flags/sco.png"
+        }
+      },
+      "type": "T20",
+      "status": 3,
+      "date": {
+        "iso": "2018-06-17T15:00+00:00",
+        "ts": 1529247600
+      },
+      "season": "T20I Tri Series 2018 in Netherlands",
+      "relatedName": "4th Match",
+      "isScheduled": true,
+      "totalWinnings": 0,
+      "totalContests": 0,
+      "totalCashWinnings": 0,
+      "totalCoinWinnings": 0,
+      "totalSpots": 0
+    },
+    {
+      "id": "engaus_2018_one-day_03",
+      "teams": {
+        "a": {
+          "name": "England",
+          "shortName": "ENG",
+          "imageUrl": "/img/flags/eng.png"
+        },
+        "b": {
+          "name": "Australia",
+          "shortName": "AUS",
+          "imageUrl": "/img/flags/aus.png"
+        }
+      },
+      "type": "ODI",
+      "status": 3,
+      "date": {
+        "iso": "2018-06-19T13:00+00:00",
+        "ts": 1529413200
+      },
+      "season": "England vs Australia 2018",
+      "relatedName": "3rd ODI Match",
+      "isScheduled": true,
+      "totalWinnings": 2,
+      "totalContests": 2,
+      "totalCashWinnings": 0,
+      "totalCoinWinnings": 2,
+      "totalSpots": 30000
+    },
+    {
+      "id": "nltriseriest20_2018_g5",
+      "teams": {
+        "a": {
+          "name": "Netherlands",
+          "shortName": "NL",
+          "imageUrl": "/img/flags/nz.png"
+        },
+        "b": {
+          "name": "Scotland",
+          "shortName": "SCT",
+          "imageUrl": "/img/flags/sco.png"
+        }
+      },
+      "type": "T20",
+      "status": 3,
+      "date": {
+        "iso": "2018-06-19T15:00+00:00",
+        "ts": 1529420400
+      },
+      "season": "T20I Tri Series 2018 in Netherlands",
+      "relatedName": "5th Match",
+      "isScheduled": true,
+      "totalWinnings": 0,
+      "totalContests": 0,
+      "totalCashWinnings": 0,
+      "totalCoinWinnings": 0,
+      "totalSpots": 0
+    },
+    {
+      "id": "wtriseries_2018_g1",
+      "teams": {
+        "a": {
+          "name": "South Africa Women",
+          "shortName": "RSAW",
+          "imageUrl": "/img/flags/rsa.png"
+        },
+        "b": {
+          "name": "New Zealand Women",
+          "shortName": "NZW",
+          "imageUrl": "/img/flags/nz.png"
+        }
+      },
+      "type": "T20",
+      "status": 1,
+      "date": {
+        "iso": "2018-06-20T12:00+00:00",
+        "ts": 1529496000
+      },
+      "season": "Womens Tri Series 2018 in England",
+      "relatedName": "1st Match",
+      "isScheduled": true,
+      "totalWinnings": 0,
+      "totalContests": 0,
+      "totalCashWinnings": 0,
+      "totalCoinWinnings": 0,
+      "totalSpots": 0
+    },
+    {
+      "id": "nltriseriest20_2018_g6",
+      "teams": {
+        "a": {
+          "name": "Netherlands",
+          "shortName": "NL",
+          "imageUrl": "/img/flags/nz.png"
+        },
+        "b": {
+          "name": "Scotland",
+          "shortName": "SCT",
+          "imageUrl": "/img/flags/sco.png"
+        }
+      },
+      "type": "T20",
+      "status": 1,
+      "date": {
+        "iso": "2018-06-20T15:00+00:00",
+        "ts": 1529506800
+      },
+      "season": "T20I Tri Series 2018 in Netherlands",
+      "relatedName": "6th Match",
+      "isScheduled": true,
+      "totalWinnings": 0,
+      "totalContests": 0,
+      "totalCashWinnings": 0,
+      "totalCoinWinnings": 0,
+      "totalSpots": 0
+    },
+    {
+      "id": "wtriseries_2018_g2",
+      "teams": {
+        "a": {
+          "name": "England Women",
+          "shortName": "ENGW",
+          "imageUrl": "/img/flags/eng.png"
+        },
+        "b": {
+          "name": "South Africa Women",
+          "shortName": "RSAW",
+          "imageUrl": "/img/flags/rsa.png"
+        }
+      },
+      "type": "T20",
+      "status": 1,
+      "date": {
+        "iso": "2018-06-20T16:40+00:00",
+        "ts": 1529512800
+      },
+      "season": "Womens Tri Series 2018 in England",
+      "relatedName": "2nd Match",
+      "isScheduled": true,
+      "totalWinnings": 0,
+      "totalContests": 0,
+      "totalCashWinnings": 0,
+      "totalCoinWinnings": 0,
+      "totalSpots": 0
+    },
+    {
+      "id": "engaus_2018_one-day_04",
+      "teams": {
+        "a": {
+          "name": "England",
+          "shortName": "ENG",
+          "imageUrl": "/img/flags/eng.png"
+        },
+        "b": {
+          "name": "Australia",
+          "shortName": "AUS",
+          "imageUrl": "/img/flags/aus.png"
+        }
+      },
+      "type": "ODI",
+      "status": 1,
+      "date": {
+        "iso": "2018-06-21T13:00+00:00",
+        "ts": 1529586000
+      },
+      "season": "England vs Australia 2018",
+      "relatedName": "4th ODI Match",
+      "isScheduled": true,
+      "totalWinnings": 0,
+      "totalContests": 0,
+      "totalCashWinnings": 0,
+      "totalCoinWinnings": 0,
+      "totalSpots": 0
+    },
+    {
+      "id": "wtriseries_2018_g3",
+      "teams": {
+        "a": {
+          "name": "England Women",
+          "shortName": "ENGW",
+          "imageUrl": "/img/flags/eng.png"
+        },
+        "b": {
+          "name": "South Africa Women",
+          "shortName": "RSAW",
+          "imageUrl": "/img/flags/rsa.png"
+        }
+      },
+      "type": "T20",
+      "status": 1,
+      "date": {
+        "iso": "2018-06-23T12:00+00:00",
+        "ts": 1529755200
+      },
+      "season": "Womens Tri Series 2018 in England",
+      "relatedName": "3rd Match",
+      "isScheduled": true,
+      "totalWinnings": 0,
+      "totalContests": 0,
+      "totalCashWinnings": 0,
+      "totalCoinWinnings": 0,
+      "totalSpots": 0
+    },
+    {
+      "id": "wtriseries_2018_g4",
+      "teams": {
+        "a": {
+          "name": "England Women",
+          "shortName": "ENGW",
+          "imageUrl": "/img/flags/eng.png"
+        },
+        "b": {
+          "name": "New Zealand Women",
+          "shortName": "NZW",
+          "imageUrl": "/img/flags/nz.png"
+        }
+      },
+      "type": "T20",
+      "status": 1,
+      "date": {
+        "iso": "2018-06-23T16:40+00:00",
+        "ts": 1529772000
+      },
+      "season": "Womens Tri Series 2018 in England",
+      "relatedName": "4th Match",
+      "isScheduled": true,
+      "totalWinnings": 0,
+      "totalContests": 0,
+      "totalCashWinnings": 0,
+      "totalCoinWinnings": 0,
+      "totalSpots": 0
+    },
+    {
+      "id": "wisl_2018_test_03",
+      "teams": {
+        "a": {
+          "name": "West Indies",
+          "shortName": "WI",
+          "imageUrl": "/img/flags/wi.png"
+        },
+        "b": {
+          "name": "Sri Lanka",
+          "shortName": "SL",
+          "imageUrl": "/img/flags/sl.png"
+        }
+      },
+      "type": "Test",
+      "status": 1,
+      "date": {
+        "iso": "2018-06-23T18:00+00:00",
+        "ts": 1529776800
+      },
+      "season": "West Indies vs Sri Lanka 2018",
+      "relatedName": "3rd Test Match",
+      "isScheduled": true,
+      "totalWinnings": 0,
+      "totalContests": 0,
+      "totalCashWinnings": 0,
+      "totalCoinWinnings": 0,
+      "totalSpots": 0
+    },
+    {
+      "id": "engaus_2018_one-day_05",
+      "teams": {
+        "a": {
+          "name": "England",
+          "shortName": "ENG",
+          "imageUrl": "/img/flags/eng.png"
+        },
+        "b": {
+          "name": "Australia",
+          "shortName": "AUS",
+          "imageUrl": "/img/flags/aus.png"
+        }
+      },
+      "type": "ODI",
+      "status": 1,
+      "date": {
+        "iso": "2018-06-24T10:00+00:00",
+        "ts": 1529834400
+      },
+      "season": "England vs Australia 2018",
+      "relatedName": "5th ODI Match",
+      "isScheduled": true,
+      "totalWinnings": 0,
+      "totalContests": 0,
+      "totalCashWinnings": 0,
+      "totalCoinWinnings": 0,
+      "totalSpots": 0
+    }
+  ]
+}
